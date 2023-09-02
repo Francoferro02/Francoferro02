@@ -28,6 +28,6 @@
 
 ### 📫 Donde podés encontrarme?
 
-- [LinkedIn](https://www.linkedin.com/in/francoandresferro/) 💼
+- [Linked In](https://www.linkedin.com/in/francoandresferro/) 💼
 - [Instagram](https://www.instagram.com/franferro__/) 😎
 
