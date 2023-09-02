@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2 align="center">Hola! Mi nombre es Franco Andres Ferro 👋</h2>
+<p align="center">
+  Soy estudiante de la tecnicatura universitaria en programación en la Universidad Tecnológica Nacional. 
+</p>
 
-<!--
-**Francoferro02/Francoferro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📰 Mis proyectos web:
+<!-- Inicio de proyectos -->
+- [Primer proyecto de portfolio web con Java,Spring Boot,JavaScript,Angular,](https://frontendfranco.web.app/)
+- [Segundo proyecto de un sistema de administración de un hotel en Java para laboratorio 3,] (https://github.com/Francoferro02/ProyectoFinalLaboratorio3)
+<!-- Fin de proyectos -->
 
-Here are some ideas to get you started:
+### 📚 Estudiando actualmente:
+- [Carrera de Técnico Universitario en Programación en Universidad Tecnológica Nacional.](http://www.mdp.utn.edu.ar/tecnico-universitario-en-programacion.php) [50%]
+### 📚 Cursos realizados:
+- [Argentina Programa: #YoProgramo 2da Etapa.][100%]
+- [Argentina Programa: #SéProgramar 1ra Etapa][100%]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Técnologias aprendidas:
+- JavaScript.
+- Java.
+- Angular
+- HTML5.
+- CSS3.
+- Spring Boot
+- C.
+- SQL.
+- GitHub.
+
+### 📫 Donde podés encontrarme?
+
+- [LinkedIn](https://www.linkedin.com/in/francoandresferro/) 💼
+- [Instagram](https://www.instagram.com/franferro__/) 😎
+
