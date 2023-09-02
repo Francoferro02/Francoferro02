@@ -5,8 +5,8 @@
 
 ### 📰 Mis proyectos web:
 <!-- Inicio de proyectos -->
-- [Primer proyecto de portfolio web con Java,Spring Boot,JavaScript,Angular,](https://frontendfranco.web.app/)
-- [Segundo proyecto de un sistema de administración de un hotel en Java para laboratorio 3,] (https://github.com/Francoferro02/ProyectoFinalLaboratorio3)
+- [Primer proyecto de portfolio web con Java,Spring Boot,JavaScript,Angular](https://frontendfranco.web.app/)
+- [Segundo proyecto de un sistema de administración de un hotel en Java para laboratorio 3] (https://github.com/Francoferro02/ProyectoFinalLaboratorio3)
 <!-- Fin de proyectos -->
 
 ### 📚 Estudiando actualmente:
@@ -20,7 +20,7 @@
 - Java.
 - Angular
 - HTML5.
-- CSS3.
+- CSS.
 - Spring Boot
 - C.
 - SQL.
