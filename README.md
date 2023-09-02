@@ -30,4 +30,5 @@
 
 - [Linked In](https://www.linkedin.com/in/francoandresferro/) 💼
 - [Instagram](https://www.instagram.com/franferro__/) 😎
+- [Facebook](https://www.facebook.com/franco.ferro.9/) 😎
 
