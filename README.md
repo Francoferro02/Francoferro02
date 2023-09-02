@@ -10,7 +10,7 @@
 <!-- Fin de proyectos -->
 
 ### 📚 Estudiando actualmente:
-- [Carrera de Técnico Universitario en Programación en Universidad Tecnológica Nacional.](http://www.mdp.utn.edu.ar/tecnico-universitario-en-programacion.php) [50%]
+- [Carrera de Técnico Universitario en Programación en Universidad Tecnológica Nacional.](http://www.mdp.utn.edu.ar/tecnico-universitario-en-programacion.php) [80%]
 ### 📚 Cursos realizados:
 - [Argentina Programa: #YoProgramo 2da Etapa.][100%]
 - [Argentina Programa: #SéProgramar 1ra Etapa][100%]
